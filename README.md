@@ -2,7 +2,7 @@
 Master's Thesis:  Design and implementation of an adaptive digital communication system using USRP devices.
 
 ## About this repo
-This is the GNU Radio out-of-tree module and the grc files along with the Thesis memory. The basic ideas for this system (explain in detail in the Thesis) are:
+This is the GNU Radio out-of-tree module and the grc and Python files along with the Thesis memory. The basic ideas for this system (explain in detail in the Thesis) are:
 * One Tx and one Rx with a feedback channel of much less bandwidth that the main channel.
 * Tx sends data in packets. BPSK is always used on the Header, options for the Payload are (BPSK, QPSK, 16-QAM, and 64-QAM).
 * The modulation used at the Payload is chosen based on the Rx feedback and an Error Probability threshold that the user inputs depending on the application.
