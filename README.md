@@ -1,5 +1,5 @@
 # MS
-Master's Thesis:  Design and implementation of an adaptive digital communication system using USRP devices.
+Master's Thesis:  Design and implementation of an adaptive digital communication system using USRP devices. The Thesis is available in  https://digibuo.uniovi.es/dspace/handle/10651/60640
 
 ## About this repo
 This is the GNU Radio out-of-tree module and the grc and Python files along with the Thesis memory. The basic ideas for this system (explain in detail in the Thesis) are:
